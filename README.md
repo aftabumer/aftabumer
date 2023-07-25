@@ -9,4 +9,4 @@
 📚 Constantly Learning | 🌱 Embracing New Technologies & Best Practices. \
 💻 Open Source Contributor | 🤝 Collaborative Team Player. \
 🌟 Building Performant & Intuitive Web Apps | Responsive Web Apps | 🚀 Turning Ideas & Designs into Interactive Reality. \
-🌐 Portfolio: [Aftab Umer](https://developer-portfolio-aftabumer.vercel.app) | 📧 Email: aftaabumer@gmail.com \
+🌐 Portfolio: [Aftab Umer](https://developer-portfolio-aftabumer.vercel.app) | 📧 Email: aftaabumer@gmail.com
